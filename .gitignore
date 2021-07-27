@@ -22,5 +22,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+[remote "origin"]
+    url = git@github.com:concord-consortium/energy2d-js.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+    push = refs/heads/master:refs/heads/master
+    push = refs/heads/gh-pages:refs/heads/gh-pages
+
 
 
