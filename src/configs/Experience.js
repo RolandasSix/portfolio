@@ -1,6 +1,7 @@
 import lodvila from "../assets/experience/lodvila.jpg";
 import grafija from "../assets/experience/grafija.png";
 import freelance from "../assets/experience/freelance.png";
+import vcs from "../assets/experience/vcs.png";
 export const exp = [
   {
     title: "WEB DEVELOPER - FREELANCE",
@@ -9,7 +10,7 @@ export const exp = [
       "Finder of an innovative optimized solution. I’m glad I’m in the deployment phase of my new web development career. I am ambitious and pursue my goals.",
       "I am committed to continually improving our tools and infrastructure to maximize productivity, reduce system downtime, and respond quickly to changing business needs."
     ],
-    img: freelance
+    img:freelance
   },
   {
     title: "QA Tester",
@@ -25,7 +26,7 @@ export const exp = [
       "•	Creating test scenarios,test objectives, resources, estimates, grooming",
       "•	Environment testing (UI/UX, Test scenarios, Test cases, Bugs, Databases, Jira, SQL)."
     ],
-    img: "http://isdriskpradeti.lt/test/images/U%C5%BDSI%C4%96MIMAI/Vilnius-Coding-School.png?dl=auto=format&fit=crop&w=750&q=80"
+    img:vcs
   },
   {
     title: "Data Entry & Print Management",
