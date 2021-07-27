@@ -1,7 +1,7 @@
 import lodvila from "../assets/experience/lodvila.jpg";
 import grafija from "../assets/experience/grafija.png";
 import freelance from "../assets/experience/freelance.png";
-import vcs_logo from "../assets/experience/vcs_logo.png";
+import vcs from "../assets/experience/vcs.png";
 export const exp = [
   {
     title: "WEB DEVELOPER - FREELANCE",
@@ -26,7 +26,7 @@ export const exp = [
       "•	Creating test scenarios,test objectives, resources, estimates, grooming",
       "•	Environment testing (UI/UX, Test scenarios, Test cases, Bugs, Databases, Jira, SQL)."
     ],
-    img:vcs_logo
+    img:vcs
   },
   {
     title: "Data Entry & Print Management",
