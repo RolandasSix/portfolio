@@ -13,7 +13,7 @@ let project_list = [
 		}
 	},
 
-	{
+	{/* -------------------------------- */
 		image:
 			'https://drive.google.com/uc?id=1JL0jXajBvETfQpRuSHawrj_JORKok03Z',
 
